@@ -19,8 +19,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilen, kullanıcıların
 
 ## 📷 Ekran Görüntüsü
 
-> Projenin nasıl göründüğünü gösteren bir görsel buraya eklenebilir:
-> `./images/preview.png`
+> ![music-player](https://github.com/user-attachments/assets/f46e7dfe-37e9-40cb-b6d0-a7a4efa170b9)
 
 https://mtdgn34.github.io/music-player/
 
