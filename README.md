@@ -22,6 +22,6 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilen, kullanıcıların
 > Projenin nasıl göründüğünü gösteren bir görsel buraya eklenebilir:
 > `./images/preview.png`
 
-![Müzik Çalar Önizleme](./images/preview.png)
+https://mtdgn34.github.io/music-player/
 
-## 📁 Dosya Yapısı
+
